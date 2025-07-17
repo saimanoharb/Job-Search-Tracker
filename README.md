@@ -23,7 +23,7 @@ So I built this — for myself, and for anyone navigating the search right now.
 
  ✅ High-Impact Tips – From structuring your week to writing standout resumes
 
-📎 Download the Excel – “Ultimate_Job_Search_Tracker”
+📎 Download the Excel – (“Ultimate_Job_Search_Tracker”)[https://github.com/saimanoharb/Ultimate_Job_Search_Tracker/blob/main/Ultimate_Job_Search_Tracker.xlsx]
 
 This tracker may not be perfect — but if it helps even one person bring a little structure or clarity to their search, it’s worth sharing.
 
