@@ -1,5 +1,5 @@
-# Job-Search-Tracker
-Job-Search-Tracker
+# Ultimate_Job_Search_Tracker
+Ultimate_Job_Search_Tracker
 Struggling with the job search and tracking applications? This might help. 💡
 
 I built something I wish I had on Day 1 —
@@ -23,7 +23,7 @@ So I built this — for myself, and for anyone navigating the search right now.
 
  ✅ High-Impact Tips – From structuring your week to writing standout resumes
 
-📎 Download the Excel – “Ultimate Job Search Tracker”
+📎 Download the Excel – “Ultimate_Job_Search_Tracker”
 
 This tracker may not be perfect — but if it helps even one person bring a little structure or clarity to their search, it’s worth sharing.
 
