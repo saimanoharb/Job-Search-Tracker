@@ -11,6 +11,7 @@ Over the past few weeks, I’ve connected with many talented folks in tech — a
 So I built this — for myself, and for anyone navigating the search right now.
 
 💼 What’s inside:
+
  ✅ Job Application Tracker – Stay on top of every role, stage, and follow-up
 
  ✅ Referral & Outreach Log – Organize your networking with purpose
